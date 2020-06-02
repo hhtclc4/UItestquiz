@@ -15,7 +15,7 @@ class HomeBody extends React.Component {
                         <p>Create your quiz and share to everyone </p>
                     </div>
                     <button className="home-body-btn">
-                        Get beginning
+                        Get beginning again
                     </button>
                 </div>
             </div>
